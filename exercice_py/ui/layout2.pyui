@@ -1,0 +1,102 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {756, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "uuid" : "9760A56C-9FAD-4B3C-B21D-05D5875A8292",
+          "font_size" : 17,
+          "corner_radius" : 5,
+          "border_style" : 3,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "border_width" : 1,
+          "alignment" : "left",
+          "enabled" : true,
+          "text" : "",
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "name" : "new_item",
+          "flex" : "WR"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{339, 922}, {90, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "LRT",
+          "action" : "add_new_item",
+          "enabled" : true,
+          "border_width" : 1,
+          "title" : "Add",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "font_bold" : false,
+          "corner_radius" : 5,
+          "uuid" : "5AE25D94-7595-4C64-B740-BE78A2017A50",
+          "font_size" : 15,
+          "name" : "add_item"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 55}, {372, 868}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WHR",
+          "border_width" : 1,
+          "enabled" : true,
+          "editable" : true,
+          "name" : "shoppinglist",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "corner_radius" : 5,
+          "alignment" : "left",
+          "uuid" : "C41E032A-2DA7-4C6C-952C-128C2CE80B9F",
+          "font_size" : 17,
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{390, 46}, {372, 868}}",
+        "class" : "TextView",
+        "attributes" : {
+          "flex" : "WHL",
+          "border_width" : 1,
+          "enabled" : true,
+          "editable" : true,
+          "name" : "textview2",
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "corner_radius" : 5,
+          "alignment" : "left",
+          "uuid" : "37028B9D-7066-4639-947B-E20B172B63D4",
+          "font_size" : 17,
+          "text_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {768, 960}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "shoppinglist",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{19, 14}, {320, 45}}",
+        "class" : "NavigationView",
+        "attributes" : {
+          "title_bar_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{19, 69}, {320, 320}}",
+          "title_color" : "RGBA(0.33, 0.33, 0.33, 1.0)",
+          "uuid" : "666BCE7E-3969-45F8-9A15-D633D945C493",
+          "class" : "NavigationView",
+          "root_view_name" : "questionnaire 01",
+          "name" : "navigationview1"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {357, 457}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {308, 32}}",
+        "class" : "SegmentedControl",
+        "attributes" : {
+          "uuid" : "64B4F69B-30C4-4DB0-BF1E-E191265A23EF",
+          "enabled" : true,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "name" : "mode_segmentedcontrol",
+          "segments" : "Date|From|Topic|Size",
+          "flex" : "W"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+          {
+            "nodes" : [
+
+            ],
+            "frame" : "{{0, 0}, {320, 320}}",
+            "class" : "TableView",
+            "attributes" : {
+              "flex" : "WH",
+              "data_source_items" : "Row 1\nRow 2 >\nRow 3 (i)",
+              "enabled" : true,
+              "row_height" : 44,
+              "uuid" : "8A1FC62A-40E1-4B9A-B9BC-E9510E89F367",
+              "data_source_number_of_lines" : 1,
+              "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+              "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+              "data_source_font_size" : 18,
+              "data_source_delete_enabled" : true,
+              "name" : "message_list_tableview"
+            },
+            "selected" : false
+          }
+        ],
+        "frame" : "{{6, 46}, {308, 442.5}}",
+        "class" : "ScrollView",
+        "attributes" : {
+          "flex" : "WH",
+          "enabled" : true,
+          "content_width" : 320,
+          "content_height" : 320,
+          "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+          "uuid" : "60281A4A-C972-48C0-A9F2-156F2F247826",
+          "name" : "message_list_scrollview"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 504}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "name" : "messages",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
